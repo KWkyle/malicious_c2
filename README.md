@@ -1,1 +1,0 @@
-# malicious_c2
